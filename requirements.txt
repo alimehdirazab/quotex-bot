@@ -1,0 +1,30 @@
+# Core Language and Typing
+pydantic==2.8.2
+pydantic-settings==2.4.0
+python-dotenv==1.0.1
+loguru==0.7.2
+joblib==1.4.2
+
+# Data Processing & Technical Analysis
+numpy==1.26.4
+pandas==2.2.2
+pandas-ta==0.3.14b0
+
+# Machine Learning Frameworks
+scikit-learn==1.5.1
+lightgbm==4.5.0
+xgboost==2.1.0
+
+# Alerting & Messaging
+pyTelegramBotAPI==4.21.0
+whatsapp-cloud-api==0.0.5
+
+# Browser Automation & Stealth (Execution Mode Only)
+playwright==1.46.0
+
+# Quotex Connectivity & Modern TLS Emulation
+curl_cffi==0.7.1
+pyquotex==0.1.9
+# Alternative / fallback Quotex client:
+# git+https://github.com/ChipaDevTeam/QuotexAPI.git@main
+

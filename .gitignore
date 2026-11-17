@@ -1,0 +1,30 @@
+# Environment and secrets
+.env
+*.env
+
+# Machine Learning model checkpoints
+models/
+*.joblib
+
+# Logs and runtime exports
+logs/
+*.log
+
+# Browser automation persistent profile & cookies
+browser_profile/
+session.json
+session.json.bak
+data/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
